@@ -35,4 +35,3 @@ A fun and interactive memory card matching game built using [technology/framewor
 4. If they don’t match, they flip back over.
 5. Match all pairs in the shortest time possible.
 
-
